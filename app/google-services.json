@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52357153077",
+    "firebase_url": "https://traducapi.firebaseio.com",
+    "project_id": "traducapi",
+    "storage_bucket": "traducapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52357153077:android:44f8ab714d316883eb4c7c",
+        "android_client_info": {
+          "package_name": "com.example.chatbottraductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52357153077-f9lngmoj47ulknv7n4428ljc155fepgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbottraductor",
+            "certificate_hash": "a73fa8b9d24a96bea958ccc03c45702cdba71861"
+          }
+        },
+        {
+          "client_id": "52357153077-3rsahsc6op11be0ehnsbau7l2a46utsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpyj30ltdCPrjbXCdnjhiOcJv-6zkU9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52357153077-3rsahsc6op11be0ehnsbau7l2a46utsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
